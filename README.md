@@ -1,5 +1,5 @@
 # wxToAlipay
-[微信小程序](https://mp.weixin.qq.com/debug/wxadoc/dev/index.html?t=201828)转[支付宝小程序](https://docs.alipay.com/mini/developer/getting-started)
+[微信小程序](https://mp.weixin.qq.com/debug/wxadoc/dev/index.html?t=201828)转[恒大小程序](https://docs.evergrande.com/mini/developer/getting-started)
 
 ## 命令行打包
 ```
